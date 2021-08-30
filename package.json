@@ -1,0 +1,38 @@
+{
+  "name": "self-job-cli",
+  "version": "1.0.0",
+  "description": "这是一个简单的模板 cli，为了快速生成开发模板",
+  "main": "index.js",
+  "bin": {
+    "self-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imondo/self-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "vue",
+    "vue-cli",
+    "vue3",
+    "微信小程序",
+    "uni-app"
+  ],
+  "author": "Mondo<568197478@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imondo/self-cli/issues"
+  },
+  "homepage": "https://github.com/imondo/self-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.1.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.1.2",
+    "log-symbols": "^4.1.0",
+    "ora": "5.4.1"
+  }
+}
