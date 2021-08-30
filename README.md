@@ -1,4 +1,9 @@
 # self-job-cli
+
+[![npm version](https://badge.fury.io/js/self-job-cli.svg)](http://badge.fury.io/js/self-job-cli) ![npm download](https://img.shields.io/npm/dt/self-job-cli.svg)
+
+![](https://nodei.co/npm/self-job-cli.png?downloads=true&downloadRank=true&stars=true)
+
 这是一个简单的模板 cli，为了快速生成开发模板
 
 ## 模板
