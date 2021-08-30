@@ -1,6 +1,6 @@
 {
   "name": "self-job-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "这是一个简单的模板 cli，为了快速生成开发模板",
   "main": "index.js",
   "bin": {
